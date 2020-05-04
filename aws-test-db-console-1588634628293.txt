@@ -1,0 +1,5 @@
+Using environment: production
+Error: The migration directory is corrupt, the following files are missing: 20200504175709_hateits.js
+    at validateMigrationList (/app/node_modules/knex/lib/migrate/Migrator.js:555:11)
+    at /app/node_modules/knex/lib/migrate/Migrator.js:62:11
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
